@@ -430,3 +430,4 @@ interpolating(l1, l2, "Interpolating from AE's latent space")
 
 gen_q4 = train_conditional_gan(training_data)
 
+
