@@ -432,3 +432,4 @@ gen_q4 = train_conditional_gan(training_data)
 
 
 
+
